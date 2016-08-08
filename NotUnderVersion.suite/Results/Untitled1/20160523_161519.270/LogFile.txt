@@ -1,0 +1,13 @@
+﻿2016-05-23 16:15:19.271 -0600	START		Running Untitled1.script
+2016-05-23 16:15:19.325 -0600	Log		x	5	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.326 -0600	Log		x	6	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.327 -0600	Log		x	13	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.328 -0600	Log		x	14	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.328 -0600	Log		x	20	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.329 -0600	Log		x	21	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.329 -0600	Log		x	27	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.330 -0600	Log		x	28	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.331 -0600	Log		x	33	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.331 -0600	Log		x	34	on_untitled1	Untitled1.script
+2016-05-23 16:15:19.524 -0600	EndTestCase		(Duration:"0.251083", Errors:"0", Exceptions:"0", StartTime:"2016-05-23 16:15:19 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-05-23 16:15:19.528 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

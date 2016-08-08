@@ -1,0 +1,6 @@
+﻿2016-05-24 08:49:01.613 -0600	START		Running Untitled.script
+2016-05-24 08:49:01.678 -0600	Log		x	7	on_untitled	Untitled.script
+2016-05-24 08:49:01.679 -0600	Log		x	8	on_untitled	Untitled.script
+2016-05-24 08:49:01.680 -0600	Log		this is new comment on 5/24	11	on_untitled	Untitled.script
+2016-05-24 08:49:01.879 -0600	EndTestCase		(Duration:"0.261974", Errors:"0", Exceptions:"0", StartTime:"2016-05-24 08:49:01 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-05-24 08:49:01.885 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

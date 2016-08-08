@@ -1,0 +1,21 @@
+﻿{
+    Bitmask = <00f8ffff ffff3f00 00f8ffff ffff3f00 00f8ffff ffff3f00 00fcffff ffff3f00 00fcffff ffff3f00 00fcffff ffff3f00 00fcffff ffff3f00 00feffff ffff3f00 00feffff ffff3f00 00feffff ffff7f00 00feffff ffff7f00 00feffff ffff7f00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff00 00feffff ffffff01 00feffff ffffff01 00feffff ffffff01 00feffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff07 00ffffff ffffff03 00ffffff ffffff03 00ffffff ffffff03 80ffffff ffffff01 00ffffff ffffff01 00ffffff ffffff01 00ffffff ffffff00 00ffffff ffffff00 00ffffff ffffff00 00ffffff ffff7f00 00ffffff ffff7f00 00ffffff ffff7f00 00feffff ffff7f00 00feffff ffff3f00 00feffff ffff3f00 00fcffff ffff3f00 00fcffff ffff3f00 00f8ffff ffff1f00 00e0ff01 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 01000000 00000000>;
+    BitmaskSize = "64,64";
+    CaptureDate = "2016-05-23 21:45:26 +0000";
+    CaptureHost = "testplants-Mac";
+    CaptureScreenSize =     (
+        1110,
+        664
+    );
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 32;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 281;
+    OriginalLocationY = 295;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}
