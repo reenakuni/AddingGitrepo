@@ -7,3 +7,5 @@ put file ResourcePath("Resource1.txt") into customer1
 put customer1
 click "image0001"
 Untitled1
+
+//test suite level?
