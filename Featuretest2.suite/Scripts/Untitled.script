@@ -1,0 +1,3 @@
+﻿If ￹condition￺TP-EPF-TOKEN￻ then
+	￹$statementsWhenTrue￺TP-EPF-TOKEN￻
+End if
